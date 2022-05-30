@@ -1,6 +1,10 @@
-<h1>I'm building a Spotify clone with react.js getting all the require data from Spotify web API.</h1>
+# Spotify-Clone-App
 
-# Getting Started with Create React App
+<p>I'm building a Spotify client-side app with React.js hat accesses user related data through the Spotify Web API.</p>
+
+<p>Documentation from the Spotify API can be checked here: https://developer.spotify.com/documentation/web-api/</p>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
