@@ -1,6 +1,6 @@
 # Spotify-Clone-App
 
-<p>I'm building a Spotify client-side app with React.js hat accesses user related data through the Spotify Web API.</p>
+<p>I'm building a Spotify client-side app with React.js that accesses user related data through the Spotify Web API.</p>
 
 <p>Documentation from the Spotify API can be checked here: https://developer.spotify.com/documentation/web-api/</p>
 
