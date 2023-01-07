@@ -1,6 +1,6 @@
 import React from 'react';
 import "./login.css";
-import { loginUrl } from "/Users/Neik/my-apps/Spotify/spotify-app/src/spotify.js"
+import { loginUrl } from "../../spotify.js"
 
 export default function Login() {
   return (
